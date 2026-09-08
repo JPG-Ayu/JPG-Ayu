@@ -2,7 +2,11 @@
 
 <!-- PORTRAIT - generated from your own photo with scripts/dotify.py -->
 <!-- Put your photo at me.jpg, then run: .\setup.ps1 -Username JPG-Ayu -Name "Ayush Singh" -Image .\me.jpg -Circle -->
-<img src="assets/portrait.svg" width="300" alt="Ayush Singh, rendered as a dot matrix">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+  <img src="assets/portrait-dark.svg" width="300" alt="Ayush Singh, rendered as a dot matrix">
+</picture>
 
 <br>
 
