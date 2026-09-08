@@ -1,0 +1,9 @@
+{
+  "projects": [
+    {
+      "repo": "profile",
+      "description": "GitHub profile README and automated profile assets.",
+      "language": "Markdown"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Ayush \u00b7 Skill Radar",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 72
+    },
+    {
+      "label": "Python",
+      "value": 62
+    },
+    {
+      "label": "C",
+      "value": 65
+    },
+    {
+      "label": "JavaScript",
+      "value": 62
+    },
+    {
+      "label": "Web Dev",
+      "value": 70
+    },
+    {
+      "label": "Git/GitHub",
+      "value": 68
+    }
+  ]
+}
